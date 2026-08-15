@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-z4tz3z.kujang138gold.online/sitemap.xml
